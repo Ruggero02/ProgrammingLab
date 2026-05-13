@@ -1,0 +1,8 @@
+ID_Prodotto,Nome_Prodotto,Categoria,Prezzo_Unitario,Quantita_Stock,Data_Inserimento
+101,Laptop Pro 15,Elettronica,1299.99,15,2024-01-15
+102,Mouse Wireless,Accessori,25.50,120,2024-02-10
+103,Monitor 4K 27",Elettronica,349.00,8,2024-02-20
+104,Tastiera Meccanica,Accessori,89.90,45,2024-03-05
+105,Smartphone X1,Elettronica,799.00,22,2024-03-12
+106,Zaino Porta PC,Ufficio,45.00,60,2024-03-15
+107,Cavi USB-C (3 pack),Accessori,15.99,200,2024-03-20
